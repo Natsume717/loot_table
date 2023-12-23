@@ -1,0 +1,27 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:blackstone"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:blackstone_wall"
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:stone"
+          }
+        ]
+      }
+    ]
+  }
+  
